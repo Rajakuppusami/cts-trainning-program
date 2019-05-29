@@ -17,7 +17,7 @@ public class List1 {
 			average +=integer;
 		}
 		System.out.println((int)average);
-		System.out.println((double)(average/li.size()));
+		System.out.println((double)((average)/li.size()));
 	}
 
 }
